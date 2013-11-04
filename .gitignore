@@ -15,4 +15,4 @@
 /log/*.log
 /tmp
 .DS_store
-public/system/*
+/public/system/*
